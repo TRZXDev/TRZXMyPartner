@@ -14,6 +14,13 @@
 - (UIViewController *)MyPartner_TRZXMyPartnerViewController:(NSDictionary *)parms;
 
 
+
+/**
+ 个人主页
+
+ @param parms @{@"title":@"",@"mid":@""}
+ @return ..
+ */
 - (UIViewController *)MyPartner_TRZXUserHomeViewController:(NSDictionary *)parms;
 
 
